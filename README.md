@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # python_packages_poc
 Testing interesting packages from this repo
 
@@ -12,7 +11,6 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-=======
 # api-flask-sqlalchemy
 
 Este repositorio contiene un ejemplo de API desarrollada utilizando
@@ -103,4 +101,3 @@ Borrar un usuario por ID:
 ## Más información
 
 - http://enjambrebit.com.ar/blog/creando-api-con-flask
->>>>>>> Adidng some code
